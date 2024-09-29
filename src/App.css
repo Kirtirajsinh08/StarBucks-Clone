@@ -1,0 +1,8 @@
+.tablepay{
+   width: 600px;
+   margin: auto;
+}
+.tablepay td{
+    padding: 10px;
+    border: 2px solid black;
+}
